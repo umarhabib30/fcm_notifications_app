@@ -6,10 +6,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8">
-                {{-- <center>
+                <center>
                     <button id="btn-nft-enable" onclick="initFirebaseMessagingRegistration()"
                         class="btn btn-danger btn-xs btn-flat">Allow for Notification</button>
-                </center> --}}
+                </center>
                 <div class="card">
                     <div class="card-header">{{ __('Dashboard') }}</div>
                     <div class="card-body">
